@@ -1,4 +1,4 @@
-package main.java.vendingMachine;
+package main.java.vending_machine;
 
 public class Items {
 

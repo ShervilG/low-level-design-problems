@@ -1,4 +1,4 @@
-package main.java.vendingMachine;
+package main.java.vending_machine;
 
 /*
 A code to implement a Vending machine that has a bunch of products like
